@@ -6,12 +6,12 @@
                   <img src="https://user-images.githubusercontent.com/53669835/147487239-d0ba308a-0fff-478d-952f-ac20ad100121.png" width="16px" ></a> or 
                 <img src="https://user-images.githubusercontent.com/53669835/147487852-cc0502b8-0b16-4fc3-9f9d-ca131035130c.png" width="16px">(llsszz0109@gmail.com).
                 
-## 📈 Github status 
+## 📈 Github status
 <a href="https://github.com/StarkerRegen/StarkerRegen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarkerRegen&hide=html,css&title_color=EEEEEE&text_color=EEEEEE&icon_color=00ADB5&bg_color=303841&langs_count=3" height="200rem"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarkerRegen&hide=html,css&title_color=EEEEEE&text_color=EEEEEE&icon_color=00ADB5&bg_color=303841&langs_count=3&card_width=230" height="200rem"/>
 </a>
 <a href="https://github.com/StarkerRegen/StarkerRegen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StarkerRegen&title_color=EEEEEE&text_color=00ADB5&icon_color=00ADB5&bg_color=303841"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StarkerRegen&show_icons=true&title_color=EEEEEE&text_color=00ADB5&icon_color=00ADB5&bg_color=303841"
        alt="StarkerRegen's GitHub Stats"  height="200rem"/>
 </a>
 
