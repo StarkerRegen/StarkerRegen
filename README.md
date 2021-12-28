@@ -8,10 +8,10 @@
                 
 ## 📈 Github status
 <a href="https://github.com/StarkerRegen/StarkerRegen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarkerRegen&hide=html,css&title_color=EEEEEE&text_color=EEEEEE&icon_color=00ADB5&bg_color=303841&langs_count=3&card_width=230" height="200rem"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StarkerRegen&hide=html,css&title_color=F5EEDC&text_color=F5EEDC&icon_color=00ADB5&bg_color=97BFB4&langs_count=3&card_width=230" height="200rem"/>
 </a>
 <a href="https://github.com/StarkerRegen/StarkerRegen">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StarkerRegen&show_icons=true&title_color=EEEEEE&text_color=00ADB5&icon_color=00ADB5&bg_color=303841"
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StarkerRegen&show_icons=true&title_color=F5EEDC&text_color=DD4A48&icon_color=4F091D&bg_color=97BFB4"
        alt="StarkerRegen's GitHub Stats"  height="200rem"/>
 </a>
 
